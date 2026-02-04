@@ -3,7 +3,7 @@
 ## 🔍 Objective
 Create a subnet in the default VPC and understand how CIDR blocks and availability zones are used in AWS networking.
 
-Examplaile:
+Goal:
 The goal of this task is to understand AWS VPC, CIDR blocks, and subnet.
 
 ---
@@ -23,14 +23,32 @@ The goal of this task is to understand AWS VPC, CIDR blocks, and subnet.
 ---
 
 ## 📸 Evidence / Artifacts
-- Console screenshots  
-
-![Day 3 Create Subnet](./Day%203%20Create%20Subnet/Answer%20step%201.png)
-
-
-
-(Attach screenshots here or mention filenames)
-
+- Console screenshots
+    - loging to the aws management console 
+    <p>  
+    <img src="Answer%20step%201.png" width="600">
+    </p>
+       - Direct to VPC page
+    <p>
+    <img src="Answer%20step%202.png" width="600">
+    </p>
+      - check the default vpc data
+    <p>
+    <img src="Answer%20step%203.png" width="600">
+    </p>    
+    - check the available subnet CIDR blocks 
+    <p>
+    <img src="Answer%20step%206.png" width="600">
+    </p>
+    - creating new subnet as per the task
+    <p>
+    <img src="Answer%20step%204.png" width="600">
+    <img src="Answer%20step%207.png" width="600">
+    </p>
+     - Completion the Task
+    <p>
+    <img src="Answer%20step%208.png" width="600">
+    </p>    
 ---
 
 ## ✅ Outcome / What I Learned
