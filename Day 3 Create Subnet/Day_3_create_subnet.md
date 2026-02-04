@@ -24,7 +24,7 @@ The goal of this task is to understand AWS VPC, CIDR blocks, and subnet.
 
 ## 📸 Evidence / Artifacts
 - Console screenshots  
- !Answer step 1.png
+ ![Day 3 Create Subnet](Answer step 1.png)
 
 (Attach screenshots here or mention filenames)
 
