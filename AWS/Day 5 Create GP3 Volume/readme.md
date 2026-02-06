@@ -26,23 +26,24 @@ The goal of this task is to understand about EBS volume
 - Console screenshots
        - Direct to EC2 service 
     <p>
-    <img src="Answer%20step%201.png" width="600">
+		
+    <img src="Answer%20step%2001.png" width="600">
     </p>
       - Select the volume from EBS section
     <p>
-    <img src="Answer%20step%202.png" width="600">
+    <img src="Answer%20step%2002.png" width="600">
     </p>    
     - Create a volume
     <p>
-    <img src="Answer%20step%203.png" width="600">
+    <img src="Answer%20step%2003.png" width="600">
     </p>
     - Name the newly created EBS volume
     <p>
-    <img src="Answer%20step%204.png" width="600">
+    <img src="Answer%20step%2004.png" width="600">
     </p>
      - Completion the Task
     <p>
-    <img src="Answer%20step%205.png" width="600">
+    <img src="Answer%20step%2005.png" width="600">
     </p>    
 ---
 
@@ -76,5 +77,6 @@ The goal of this task is to understand about EBS volume
 	-Requires formatting and mounting at the OS level
 
 	-Supports resizing and performance tuning
+
 
 	-Data persists even if the EC2 instance is stopped
