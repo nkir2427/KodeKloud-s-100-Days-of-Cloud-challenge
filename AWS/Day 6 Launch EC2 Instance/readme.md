@@ -24,25 +24,35 @@ The goal of this task is to understand about EC2 instance Launch
 
 ## 📸 Evidence / Artifacts
 - Console screenshots
+ 	   - Read the question
+     <p>
+    <img src="Description.png" width="600">
+    </p> 
        - Direct to EC2 service 
     <p>
-    <img src="Answer%20step%201.png" width="600">
+    <img src="answer%20step%2001.png" width="600">
     </p>
       - Select the Launch Ec2 instance 
     <p>
-    <img src="Answer%20step%202.png" width="600">
+    <img src="answer%20step%2002.png" width="600">
+	<img src="answer%20step%2003.png" width="600">
     </p>    
     - Create a key value pair
     <p>
-    <img src="Answer%20step%203.png" width="600">
+    <img src="answer%20step%2004.png" width="600">
     </p>
     - Select default VPC/secury group
     <p>
-    <img src="Answer%20step%204.png" width="600">
+    <img src="answer%20step%2005.png" width="600">
+	<img src="answer%20step%2007.png" width="600">
     </p>
-     - Completion the Task
+     - Completion the EC2 creation
     <p>
-    <img src="Answer%20step%205.png" width="600">
+    <img src="answer%20step%2008.png" width="600">
+    </p>    
+	- Completion the Task
+    <p>
+    <img src="answer%20step%2009.png" width="600">
     </p>    
 ---
 
@@ -62,4 +72,5 @@ The goal of this task is to understand about EC2 instance Launch
 	-Provides full control of OS and is scalable (manual or Auto Scaling)
 
 	-Pay only for what you use (On-Demand, Reserved, Spot)
+
 
