@@ -29,28 +29,33 @@ The goal of this task is to understand about EC2 instance type change
 - Console screenshots
        - Direct to EC2 service 
     <p>
-    <img src="Answer%20step%201.png" width="600">
+    <img src="Answer%20step%2001.png" width="600">
     </p>
       - Select the EC2 instance type  and stop the EC2
     <p>
-    <img src="Answer%20step%202.png" width="600">
+    <img src="Answer%20step%2003.png" width="600">
+    <img src="Answer%20step%2004.png" width="600">
+    <img src="Answer%20step%2005.png" width="600">
+		
     </p>    
     - Change the EC2 type 
     <p>
-    <img src="Answer%20step%203.png" width="600">
+    <img src="Answer%20step%2006.png" width="600">
+    <img src="Answer%20step%2007.png" width="600">
+		
     </p>
     - Start the EC2 instance
     <p>
-    <img src="Answer%20step%204.png" width="600">
+    <img src="Answer%20step%2008.png" width="600">
     </p>
      - Completion the Task
     <p>
-    <img src="Answer%20step%205.png" width="600">
+    <img src="Completed.png" width="600">
     </p>    
 ---
 
 ## ✅ Outcome / What I Learned
-- How to create a EC2 instance
+- How to change EC2 instance type
   
 
 ---
@@ -60,13 +65,14 @@ The goal of this task is to understand about EC2 instance type change
 
 ☁️ Amazon EC2 Instance Types
 
-	-General Purpose – balanced CPU, memory, networking
+-General Purpose – balanced CPU, memory, networking
 
-	-Compute Optimized – high CPU performance
+-Compute Optimized – high CPU performance
 
-	-Memory Optimized – large RAM for in-memory workloads
+-Memory Optimized – large RAM for in-memory workloads
 
-	-Storage Optimized – high disk I/O and throughput
+-Storage Optimized – high disk I/O and throughput
 
-	-Accelerated Computing – GPU / ML / HPC workloads
+-Accelerated Computing – GPU / ML / HPC workloads
+
 
