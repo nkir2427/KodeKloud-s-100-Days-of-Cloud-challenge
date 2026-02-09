@@ -29,23 +29,27 @@ The goal of this task is to understand about EC2 Enable Stop Protection feature
 - Console screenshots
        - Direct to EC2 service 
     <p>
-    <img src="Answer%20step%201.png" width="600">
+    <img src="answer%20step%2001.png" width="600">
     </p>
-      - Select the EC2 instance   and stop the EC2
+      - Select the EC2 instance  and stop the EC2
     <p>
-    <img src="Answer%20step%202.png" width="600">
+    <img src="answer%20step%2002.png" width="600">
+	<img src="answer%20step%2003.png" width="600">
     </p>    
     - Enable Stop Protection 
     <p>
-    <img src="Answer%20step%203.png" width="600">
+    <img src="answer%20step%2004.png" width="600">
+    <img src="answer%20step%2005.png" width="600">	
+    <img src="answer%20step%2006.png" width="600">		
     </p>
     - Start the EC2 instance
     <p>
-    <img src="Answer%20step%204.png" width="600">
+    <img src="answer%20step%2007.png" width="600">
+	<img src="answer%20step%2008.png" width="600">	
     </p>
      - Completion the Task
     <p>
-    <img src="Answer%20step%205.png" width="600">
+    <img src="answer%20step%2009.png" width="600">
     </p>    
 ---
 
@@ -63,4 +67,5 @@ The goal of this task is to understand about EC2 Enable Stop Protection feature
 	-EC2 Stop Protection prevents an instance from being stopped accidentally
 
 	-It does NOT prevent termination (termination protection is separate)
+
 
